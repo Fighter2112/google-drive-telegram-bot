@@ -4,6 +4,7 @@ class config:
     API_HASH = "f84405b63a6f9743bd3f517a44446934"
     DATABASE_URL = "postgres://gjlevwisumexsh:55d520e489cefbdaea5653caca9d74ae5cf6bdda3a2880505c05b68faf1c6be8@ec2-54-145-224-156.compute-1.amazonaws.com:5432/d4k8j8mc31o1m7"
     SUDO_USERS = "1376803499" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "tg://join?invite=ZH9Ek2wYXcc0OWNk"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "245871608275-q4tptjkascj72svittgki399qna986eu.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "j1bjbFa0ZhwN9i-a_my_eR3I"
